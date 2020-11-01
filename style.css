@@ -1,0 +1,34 @@
+h1 {
+	color: #383228;
+	/*background: beige*/;
+	/*border: dotted;*/
+	cursor: pointer;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 250% ;
+	font-family: georgia ;
+}
+body {
+	/*background: url(pic1.jpg) no-repeat center center fixed;*/
+	/*background-size: 1500px 1100px;*/
+	background: url(44.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    font-family: 'Indie Flower', cursive;
+    
+
+}
+p {
+	color: black;
+	font-family: 'Dancing Script', cursive;
+	font-size: 20px;
+}
+div {
+	text-align: center;
+	size: 20px;
+
+}
+
+}
